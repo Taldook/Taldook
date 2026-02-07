@@ -66,8 +66,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Taldook /Taldook /output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/31ychrkjji4gshxa4kbmfrzv27ea">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ychrkjji4gshxa4kbmfrzv27ea&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
