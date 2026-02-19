@@ -73,7 +73,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Taldook .Taldook &left_color=darkviolet&right_color=blue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Taldook .Taldook &left_color=darkviolet&right_color=blue&left_text=Visitantes"  />
 </div>
 
 ###
