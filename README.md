@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://api.dicebear.com/7.x/adventurer/png?seed=Taldo"  />
-</div>
+<img align="left" height="191" src="https://i.pinimg.com/736x/77/3c/e0/773ce0527e5ab3c4aa02c663706ccca6.jpg"  />
 
 ###
 
@@ -70,6 +68,24 @@
   <a href="https://open.spotify.com/user/31ychrkjji4gshxa4kbmfrzv27ea">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ychrkjji4gshxa4kbmfrzv27ea&count=5&unique=false" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://discord.com/users/1197387246349864970"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Taldook .Taldook &"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=C800FF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=C800FF"  />
 </div>
 
 ###
