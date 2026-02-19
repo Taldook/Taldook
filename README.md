@@ -73,13 +73,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://discord.com/users/1197387246349864970"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Taldook .Taldook &"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Taldook .Taldook &left_color=darkviolet&right_color=blue"  />
 </div>
 
 ###
