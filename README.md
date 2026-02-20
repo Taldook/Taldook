@@ -1,4 +1,4 @@
-<img align="left" height="191" src="https://cdn.discordapp.com/attachments/1474454407197360324/1474454443188687074/download-removebg-preview.png?ex=6999e835&is=699896b5&hm=cb594802e00d56b0b2a2b5c4a6ccf54a5fbcad439cc95200e26936f8cb497ea3&"  />
+<img align="left" height="191" src="https://i.pinimg.com/1200x/38/96/5d/38965d5844f36fbbf14adedfba01c970.jpg"  />
 
 ###
 
