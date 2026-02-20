@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">São Paulo - Brazil</h2>
+<h3 align="left">São Paulo - Brazil</h3>
 
 ###
 
