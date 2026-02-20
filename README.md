@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="left" height="172" src="https://i.pinimg.com/736x/4c/0e/81/4c0e81bc1638d96d1544a113b30b803b.jpg"  />
+<img align="left" height="172" src="https://i.pinimg.com/736x/28/5c/14/285c14fbe05d1bbd6e7594d268afe246.jpg"  />
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h6 align="left">🧑‍💻 Front-end & Back-end & Power BI<br>📚 Systems Analysis and Development<br>✨ Coding in my free time</h6>
+<p align="left">🧑‍💻 Front-end & Back-end & Power BI<br>📚 Systems Analysis and Development<br>✨ Coding in my free time</p>
 
 ###
 
