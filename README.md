@@ -1,4 +1,4 @@
-<img align="left" height="172" src="https://i.pinimg.com/736x/f9/27/87/f927877e60481f0e00d05946094a246f.jpg"  />
+<img align="left" height="172" src="https://i.pinimg.com/736x/4c/0e/81/4c0e81bc1638d96d1544a113b30b803b.jpg"  />
 
 ###
 
@@ -74,6 +74,20 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=C800FF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=C800FF"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taldook /Taldook /output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taldook /Taldook /output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Taldook /Taldook /output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Taldook .Taldook &"  />
 </div>
 
 ###
