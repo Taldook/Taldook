@@ -1,4 +1,4 @@
-<img align="left" height="191" src="https://i.pinimg.com/736x/77/3c/e0/773ce0527e5ab3c4aa02c663706ccca6.jpg"  />
+<img align="left" height="191" src="https://cdn.discordapp.com/attachments/1474454407197360324/1474454443188687074/download-removebg-preview.png?ex=6999e835&is=699896b5&hm=cb594802e00d56b0b2a2b5c4a6ccf54a5fbcad439cc95200e26936f8cb497ea3&"  />
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧑‍💻 Front-end & Back-end & Power BI<br>📚 Systems Analysis and Development<br>✨ Poetry in my free time</p>
+<p align="left">🧑‍💻 Front-end & Back-end & Power BI<br>📚 Systems Analysis and Development<br>✨ Coding in my free time</p>
 
 ###
 
