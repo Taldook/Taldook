@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🧑‍💻 Front-end & Back-end & Power BI<br>📚 Systems Analysis and Development<br>✨ Coding in my free time</p>
+<h6 align="left">🧑‍💻 Front-end & Back-end & Power BI<br>📚 Systems Analysis and Development<br>✨ Coding in my free time</h6>
 
 ###
 
@@ -76,20 +76,6 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=C800FF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=C800FF"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taldook /Taldook /output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taldook /Taldook /output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Taldook /Taldook /output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Taldook .Taldook &"  />
 </div>
 
 ###
