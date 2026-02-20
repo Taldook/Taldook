@@ -1,4 +1,4 @@
-<img align="left" height="191" src="https://i.pinimg.com/736x/f9/27/87/f927877e60481f0e00d05946094a246f.jpg"  />
+<img align="left" height="172" src="https://i.pinimg.com/736x/f9/27/87/f927877e60481f0e00d05946094a246f.jpg"  />
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">São Paulo - Brazil</h3>
+<h2 align="left">São Paulo - Brazil</h2>
 
 ###
 
