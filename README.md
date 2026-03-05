@@ -64,13 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31ychrkjji4gshxa4kbmfrzv27ea">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ychrkjji4gshxa4kbmfrzv27ea&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
