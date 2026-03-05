@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="left" height="172" src="https://i.pinimg.com/736x/28/5c/14/285c14fbe05d1bbd6e7594d268afe246.jpg"  />
+<img align="left" height="172" src="https://i.pinimg.com/avif/736x/09/a4/df/09a4df0e59b9dc101ec0d64980120311.avf"  />
 
 ###
 
@@ -80,9 +80,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Taldook.Taldook&left_color=deeppink&left_text=VISITANTES" />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=C800FF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=C800FF"  />
 </div>
-
-
-###
