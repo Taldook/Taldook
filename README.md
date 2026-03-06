@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🧑‍💻 Front-end & Back-end & Power BI<br>📚 Systems Analysis and Development<br>👩🏻‍💻Coding in my free time</p>
+<p align="left">🧑‍💻 Front-end & Back-end & Power BI<br>📚 Systems Analysis and Development<br>👩🏻‍💻 Coding in my free time</p>
 
 ###
 
