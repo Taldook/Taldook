@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Taldook/profile-readme.teste/main/banner-github.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/Taldook/Taldook/main/banner-github.gif" width="100%" />
 
   <p align="center">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=Taldook&data=followers,repositories,stars,commits&theme=darkmode" />
