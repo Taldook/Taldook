@@ -1,90 +1,82 @@
-<br clear="both">
-
-<img align="left" height="172" src="https://i.pinimg.com/avif/736x/09/a4/df/09a4df0e59b9dc101ec0d64980120311.avf"  />
-
-###
-
-<h1 align="center">My name is Rafael.</h1>
-
-###
-
-<h2 align="left">São Paulo - Brazil</h2>
-
-###
-
-  <br> <p>
-    🧑‍💻 <b>Front-end & Back-end & Power BI</b><br>
-    📚 Systems Analysis and Development<br>
-    ⚙️ Coding in my free time
-  </p>
-
-###
-
-<h2 align="left">Language and Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" height="40" alt="androidstudio logo"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=C800FF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=C800FF"  />
-</div>
-
-###
-
-<h2 align="left">🔥My Stats:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-</div>
-
-###
+<div align="center">
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31ychrkjji4gshxa4kbmfrzv27ea">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ychrkjji4gshxa4kbmfrzv27ea&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/Taldook/profile-readme.teste/main/banner-github.gif" width="100%" />
 </div>
 
-###
+# 👋 My name is Rafael
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=C800FF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=C800FF"  />
+### 🇧🇷 São Paulo - Brazil
+
 </div>
 
-###
+---
+
+## 🧑‍💻 About Me
+
+<p align="center">
+🧑‍💻 <b>Mid-Level Full-Stack Web Developer</b><br>
+📊 Focused on Power BI & Data Analysis<br>
+📚 Systems Analysis and Development<br>
+⚙️ Coding in my free time
+</p>
+
+---
+
+## 🚀 Main Skills
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Taldook&left_color=deeppink&left_text=VISITANTES" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,git,linux" />
 </div>
 
+---
+
+## 🧰 Tools & Software
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,blender" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Taldook&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Taldook&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎧 Spotify
+
+<div align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31ychrkjji4gshxa4kbmfrzv27ea&count=5" />
+</div>
+
+---
+
+## 💬 Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.&author=Linus%20Torvalds" />
+
+</div>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile!  
+</p>
+
+---
+
+## 📈 Visitors
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Taldook&left_color=FFFF00&right_color=FFF700" />
+</div>
