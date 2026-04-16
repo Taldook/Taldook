@@ -78,5 +78,5 @@
 ## 📈 Visitors
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Taldook&left_color=FFFF00&right_color=FFF700" />
+<img src="https://img.shields.io/badge/VISITANTES-6A00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=6A00FF&color=0d1117" />
 </div>
